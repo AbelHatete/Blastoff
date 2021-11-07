@@ -1,0 +1,33 @@
+*{
+	background-color: rgb(5, 55, 95);
+	  font-family: comic sans ms,cursive;
+	   text-align: center;
+	    color: rgb(12, 219, 219);
+	    
+}
+.note{
+	text-align: left;
+}
+h2{
+	font-weight: black;
+	  text-decoration: underline wavy #CDC;
+	   font-style: oblique;
+}
+input{
+	border: rgb(11, 187, 149) 3px solid;
+	 padding: 3px;
+	 background-color: white;
+	 border-radius: 5px;
+	 text-decoration-color: black;
+}
+input.submit:hover{
+	background-color: brown;
+}
+input.submit:hover{
+	background-color:red;
+	  padding: 10px;
+}
+input.text{
+	color: yellow;
+	 font-family: Georgia, 'Times New Roman', Times, serif;
+}

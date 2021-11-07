@@ -1,0 +1,22 @@
+*{
+	background-color: darkblue;
+	  font-family: comic sans ms,cursive;
+	   text-align: center;
+	    color: white;
+	    
+}
+.note{
+	text-align: left;
+}
+h2{
+	font-weight: black;
+	  text-decoration: underline wavy #CDC;
+	   font-style: oblique;
+}
+#header{
+	border-radius: 3px;
+}
+.container{
+	background-image: url("astronaut.jpg");
+	
+}

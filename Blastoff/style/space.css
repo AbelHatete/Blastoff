@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+     font-family: comic sans ms,cursive;
+      background-image: url("satelite.jpg");
+       background-size: cover;
+        background-attachment: fixed;
+        
+}
+h3{
+    font-weight: 400;
+      font-style: oblique;
+       
+}
+.header{
+  text-align: left;
+}
+a:link{
+  color: yellow;
+  text-decoration: none;
+}
+a:active{
+  color: yellow;
+   text-decoration: none;
+}
+a:hover{
+  color: aliceblue;
+  text-decoration: none;
+}
+.note{
+  font-size: 30px;
+   font-weight: bold;
+  
+}
+p{
+  color: beige;
+   font-size: 100px;
+    color: rgb(219, 120, 7);
+     text-decoration: underline white;
+
+}

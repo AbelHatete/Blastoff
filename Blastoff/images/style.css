@@ -1,0 +1,31 @@
+
+*{
+  text-align: center;
+  font-family: comic sans ms,cursive;
+  background-color: black;
+}
+}
+  .header{
+  	text-decoration: none;
+  	  font-family: comic sans ms,cursive;
+  }
+  .header a:active{
+  	color: yellow;
+  	text-decoration: none;
+  }
+  .header a:hover{
+  	color: red;
+  	text-decoration: none;
+  }
+  .header a:link{
+  	color: white;
+  	text-decoration: none;
+  }
+
+  #wave{
+  	text-align: left;
+  }
+  #five{
+    font-size: 30px;
+
+  }
